@@ -1,0 +1,5 @@
+Credentials cache: API:1313339E-28F5-4E2D-B70F-8817D575C93F
+        Principal: ynouar@42.FR
+
+  Issued                Expires               Principal
+Aug  1 11:41:02 2016  Aug  8 11:40:47 2016  krbtgt/42.FR@42.FR
